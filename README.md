@@ -3,7 +3,8 @@ I created Tech Her Path to empower and guide girls who aspire to enter the world
 
 This website aims to be a supportive platform where girls can explore career paths, find inspiration, and take their first steps into the tech industry with clarity and confidence. Tech Her Path is my small contribution toward bridging the gender gap in STEM and encouraging more girls to follow their passion for technology.
 
-*Technologies used*
+*Technologies used*-
+
 HTML – For structuring the content and layout of the website
 
 CSS – For styling and designing the visual appearance
@@ -14,20 +15,21 @@ OBS Studio – For recording the project demonstration video
 
 Vercel – For deploying and hosting the live website
 
-*Key Features & Functions*
- Home Page
+*Key Features & Functions*-
+
+ Home Page-
  A warm and inspiring introduction to Tech Her Path, outlining its mission to guide and empower girls toward careers in technology and engineering.
 
- Login Page
+ Login Page-
 A secure and user-friendly login interface designed to welcome returning users and provide easy access to the platform’s features.
 
- Careers Page
+ Careers Page-
 Highlights various tech career paths, internship opportunities, and mentorship programs, especially tailored for girls in STEM.
 
- About Page
+ About Page-
 Shares the vision and purpose behind Tech Her Path, including the motivation to support female students and reduce the gender gap in tech fields.
 
- Responsive Design
+ Responsive Design-
 Fully optimized for both desktop and mobile devices to ensure a smooth and accessible user experience across all screen sizes.
 
 *Deployed Vercel link*
